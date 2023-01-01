@@ -1,15 +1,9 @@
 # Portfolio Projects
-In this directory you will find the portfolio projects I coded to showcase my R and Python skills. 
-All of these portfolio projects are also featured on my [website](https://www.marcelholzer.com). I decided to create three projects for each programming language, so in total there are six portfolio projects. 
+In this directory you will find the portfolio projects I create to showcase my R and Python skills. 
+
+At the moment, only one Python Project is online. However, I will continuously update this repository whenever I finish a new project.
+
+Currently you can find the following projects in this repository:
 
 __Python:__
-- web scraping & Exploratory Data Analysis (public data on characteristics of different ETFs)
-- network analysis of the Harry Potter books and corresponding networks
-- data cleaning / data preparation & machine learning project
-
-__R:__
-- geospatial dashboard representing data on the incidence and costs of different ICD diagnoses
-- graphs on data from experimental psychology 
-- data cleaning / data preparation / data analysis of example data that could be valuable for companies
-
-
+- geospatial map with random data showing the inpatient treatment costs of a specific ICD-diagnosis in the german federal lands
