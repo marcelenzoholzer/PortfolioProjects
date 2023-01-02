@@ -1,5 +1,5 @@
 # Portfolio Projects
-In this directory you will find the portfolio projects I create to showcase my R and Python skills.
+In this directory you will find the portfolio projects I created to showcase my R and Python skills.
 
 Results of the projects (e.g. graphs) are saved in the "issues" section of this repository, a link will also be provided at the end of each file or notebook.
 
